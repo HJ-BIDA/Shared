@@ -1,0 +1,64 @@
+
+@font-face{
+	font-family:Rooster;
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-Light.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-Light.woff) format("woff");
+	font-weight:300;
+	font-style:normal;
+	font-display:swap;
+}
+@font-face{
+	font-family:Rooster;
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-Regular.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-Regular.woff) format("woff");
+	font-weight:400;
+	font-style:normal;
+	font-display:swap;
+}
+@font-face{
+	font-family:Rooster;
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-Italic.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-Italic.woff) format("woff");
+	font-weight:400;
+	font-style:italic;
+	font-display:swap;
+}
+@font-face{
+	font-family:Rooster;
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-Bold.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-Bold.woff) format("woff");
+	font-weight:700;
+	font-style:normal;
+	font-display:swap;
+}
+@font-face{
+	font-family:Rooster;
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-Black.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-Black.woff) format("woff");
+	font-weight:900;
+	font-style:normal;
+	font-display:swap;
+}
+@font-face{
+	font-family:Rooster;
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-BlackItalic.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-BlackItalic.woff) format("woff");
+	font-weight:900;
+	font-style:italic;
+	font-display:swap;
+}
+@font-face{
+	font-family:'Rooster Condensed';
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-Condensed.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-Condensed.woff) format("woff");
+	font-weight:400;
+	font-style:normal;
+	font-display:swap;
+}
+@font-face{
+	font-family:'Rooster Condensed';
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-CondensedItalic.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-CondensedItalic.woff) format("woff");
+	font-weight:400;
+	font-style:italic;
+	font-display:swap;
+}
+@font-face{
+	font-family:'Rooster Condensed';
+	src:url(https://www.howdens.com/Fonts/Rooster/Rooster-CondensedBold.woff2) format("woff2"),url(https://www.howdens.com/Fonts/Rooster/Rooster-CondensedBold.woff) format("woff");
+	font-weight:700;
+	font-style:normal;
+	font-display:swap;
+}
